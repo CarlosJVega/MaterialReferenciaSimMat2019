@@ -1,5 +1,5 @@
-﻿# SimMat2019-1
-En este repositorio se encuentras las notas para el curso de simulación matemática en el primer semestre del 2019. En caso de Material adicional será proporcionado durante clases.
+# SimMat2019-1
+Este repositorio tiene todo el material de referencia para el curso de Simulación Matemática del primer semestre de 2019, impartido por l@s profesor@s Adriana, Carlos y Cristian.
 
 Este curso consiste de tres módulos. 
 
